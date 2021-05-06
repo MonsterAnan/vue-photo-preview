@@ -15,6 +15,7 @@ var opts={
 	bgOpacity : 0.85,
 	tapToClose : true,
 	tapToToggleControls : false,
+	preload: [1,1],
 }
 Vue.use(Preview,opts)
 
